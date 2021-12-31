@@ -21,7 +21,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/** * 权限申请 * Created by lidong on 2019/10/25. */
+/** * 权限申请 * Created by lidong on 2021/12/31. */
 public class PermissionActivity extends AppCompatActivity {
 
     private static PermissionHelper.PermissionListener mPermissionListener;
