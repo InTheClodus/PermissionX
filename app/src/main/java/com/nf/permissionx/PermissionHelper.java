@@ -5,7 +5,7 @@ import android.os.Build;
 
 import androidx.core.content.PermissionChecker;
 
-/** * 权限帮助类 * Created by lidong on 2019/10/25. */
+/** * 权限帮助类 * Created by lidong on 2021/12/31. */
 public class PermissionHelper {
 
     /** * 请求权限 * * @param context context * @param permissions 权限 * @param listener 监听 */
